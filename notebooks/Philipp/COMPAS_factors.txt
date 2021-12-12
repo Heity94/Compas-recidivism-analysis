@@ -1,0 +1,32 @@
+#Check which factors are used by COMPAS and which could potentially be recreated with the ProPublica Dataset
+#source: https://www.documentcloud.org/documents/2702103-Sample-Risk-Assessment-COMPAS-CORE.html
+
+Some data available:
+  - General information
+    - age
+    - gender
+
+  - Current charges
+    - Category of charges
+    - Most serious current offense
+    - number of pending charges ?
+
+  - Criminal histroy
+    - Number of criminal arrests ?
+    - Number prior juv felony offense ?
+    - Number of times person has been send to prison ?
+
+No data available:
+  - Non-compliance
+  - Family Criminaltiy
+  - Peers
+  - Substance Abuse
+  - Residence/ Stability
+  - Social Environment
+  - Education
+  - Vocation (Work)
+  - Leisure/Recreation
+  - Social Isolation
+  - Criminal Personality
+  - Anger
+  - Criminal Attitudes
