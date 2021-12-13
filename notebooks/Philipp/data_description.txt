@@ -1,0 +1,54 @@
+# compas-scores-two-years.csv
+id: id from file compas-scores.csv
+name: full name defendant
+first: firstname of defendant
+last: lastname of defendantf
+compas_screening_date: Date of compas rating (identical to column "screening_date" and "v_screening_date")
+sex: ['Male' 'Female']
+dob: date of birth
+age: age (int)
+age_cat: ['Greater than 45' '25 - 45' 'Less than 25']
+race: ['Other' 'African-American' 'Caucasian' 'Hispanic' 'Native American' 'Asian']
+juv_fel_count: juvenile fellony count ?
+decile_score: Compas decile score from 1-10 for recidivism
+juv_misd_count: ?
+juv_other_count: ?
+priors_count: prior fellonies ?
+days_b_screening_arrest: days between compas rating and arrest ?
+c_jail_in: Date of entering jail ?
+c_jail_out: Date of leaving jail ?
+c_case_number: case number (id)
+c_offense_date: date of offense ?
+c_arrest_date: date of arrest
+c_days_from_compas: ?
+c_charge_degree: Felony (Serious crime), misdemeanor (less serious crime) ['F' 'M']
+c_charge_desc: Description of charge (category)
+is_recid: if person did recidivate within 2 years [0: No, 1: Yes]
+r_case_number; ?
+r_charge_degree: ? [nan '(F3)' '(M1)' '(F2)' '(M2)' '(MO3)' '(F1)' '(F6)' '(F7)' '(CO3)' '(F5)']
+r_days_from_arrest
+r_offense_date
+r_charge_desc
+r_jail_in
+r_jail_out
+violent_recid: Only NaNs (both for this file and the violent file) -> drop
+is_violent_recid [0 1]
+vr_case_number
+vr_charge_degree
+vr_offense_date
+vr_charge_desc
+type_of_assessment ['Risk of Recidivism']
+decile_score.1: identical to column decile_score for recidivism
+score_text: Risk category for recidivism ['Low' 'High' 'Medium']
+screening_date: Date of compas rating (identical to column "compas_screening_date" and "v_screening_date")
+v_type_of_assessment: Only value -> ['Risk of Violence']
+v_decile_score: Compas decile score from 1-10 for violent recidivism
+v_score_text: Risk category for violent recidivism ['Low' 'Medium' 'High']
+v_screening_date: Date of compas rating (identical to column "compas_screening_date" and "screening_date")
+in_custody
+out_custody
+priors_count.1: identical to column "priors_count"
+start
+end
+event [0 1]
+two_year_recid [0 1]
