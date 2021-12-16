@@ -23,7 +23,7 @@ c_arrest_date: date of arrest
 c_days_from_compas: ?
 c_charge_degree: Felony (Serious crime), misdemeanor (less serious crime) ['F' 'M']
 c_charge_desc: Description of charge (category)
-is_recid: if person did recidivate within 2 years [0: No, 1: Yes]
+is_recid: if person did recidivate (in general, and not only in 2 years?) [0: No, 1: Yes]
 r_case_number; ?
 r_charge_degree: ? [nan '(F3)' '(M1)' '(F2)' '(M2)' '(MO3)' '(F1)' '(F6)' '(F7)' '(CO3)' '(F5)']
 r_days_from_arrest
@@ -51,4 +51,4 @@ priors_count.1: identical to column "priors_count"
 start
 end
 event [0 1]
-two_year_recid [0 1]
+two_year_recid [0 1] f person did recidivate within 2 years? [0: No, 1: Yes]
