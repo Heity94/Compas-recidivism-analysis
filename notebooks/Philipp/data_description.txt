@@ -1,4 +1,4 @@
-# compas-scores-two-years.csv
+# Columns of compas-scores-two-years.csv
 id: id from file compas-scores.csv
 name: full name defendant
 first: firstname of defendant
@@ -9,12 +9,14 @@ dob: date of birth
 age: age (int)
 age_cat: ['Greater than 45' '25 - 45' 'Less than 25']
 race: ['Other' 'African-American' 'Caucasian' 'Hispanic' 'Native American' 'Asian']
-juv_fel_count: juvenile fellony count ?
+juv_fel_count:  number of juvenile felonies of the defendant
 decile_score: Compas decile score from 1-10 for recidivism
-juv_misd_count: ?
-juv_other_count: ?
-priors_count: prior fellonies ?
+juv_misd_count: number of juvenile misdemeanors of the defendant
+juv_other_count: Other juvenile crimes which do not fall under felonie, nor misdemeanor?
+priors_count: number of prior felonies and misdemeanors (as an adult) (Assumption)
 days_b_screening_arrest: days between compas rating and arrest ?
+
+## Assumption: Prefix c_ stands for charge for which a compas screening was conducted
 c_jail_in: Date of entering jail ?
 c_jail_out: Date of leaving jail ?
 c_case_number: case number (id)
@@ -23,32 +25,39 @@ c_arrest_date: date of arrest
 c_days_from_compas: ?
 c_charge_degree: Felony (Serious crime), misdemeanor (less serious crime) ['F' 'M']
 c_charge_desc: Description of charge (category)
+
+## Assumption: Prefix r_ stands for recidivism (general) -> future crime after compas screening (c_)
 is_recid: if person did recidivate (in general, and not only in 2 years?) [0: No, 1: Yes]
 r_case_number; ?
-r_charge_degree: ? [nan '(F3)' '(M1)' '(F2)' '(M2)' '(MO3)' '(F1)' '(F6)' '(F7)' '(CO3)' '(F5)']
+r_charge_degree: More specific definition of felony or misdemeanor [nan '(F3)' '(M1)' '(F2)' '(M2)' '(MO3)' '(F1)' '(F6)' '(F7)' '(CO3)' '(F5)']
 r_days_from_arrest
 r_offense_date
 r_charge_desc
 r_jail_in
 r_jail_out
+
+type_of_assessment: Only value ->  ['Risk of Recidivism']
+decile_score.1: identical to column decile_score for recidivism -> drop
+score_text: Risk category for recidivism ['Low' 'High' 'Medium']
+screening_date: Date of compas rating (identical to column "compas_screening_date" and "v_screening_date")
+
+## Assumption: Prefix vr_ and v_ stand for violent recidivism -> future crime after compas screening (c_)
 violent_recid: Only NaNs (both for this file and the violent file) -> drop
 is_violent_recid [0 1]
 vr_case_number
-vr_charge_degree
+vr_charge_degree: More specific definition of felony or misdemeanor
 vr_offense_date
 vr_charge_desc
-type_of_assessment ['Risk of Recidivism']
-decile_score.1: identical to column decile_score for recidivism
-score_text: Risk category for recidivism ['Low' 'High' 'Medium']
-screening_date: Date of compas rating (identical to column "compas_screening_date" and "v_screening_date")
 v_type_of_assessment: Only value -> ['Risk of Violence']
 v_decile_score: Compas decile score from 1-10 for violent recidivism
 v_score_text: Risk category for violent recidivism ['Low' 'Medium' 'High']
 v_screening_date: Date of compas rating (identical to column "compas_screening_date" and "screening_date")
+
+
 in_custody
 out_custody
-priors_count.1: identical to column "priors_count"
+priors_count.1: identical to column "priors_count" -> drop
 start
 end
 event [0 1]
-two_year_recid [0 1] f person did recidivate within 2 years? [0: No, 1: Yes]
+two_year_recid [0 1] if person did recidivate within 2 years? [0: No, 1: Yes]
