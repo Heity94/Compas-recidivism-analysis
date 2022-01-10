@@ -5,6 +5,7 @@ Some data available:
   - General information
     - age
     - gender
+    - marital status (not in .csv files, but in SQLLite DB)
 
   - Current charges
     - Category of charges
