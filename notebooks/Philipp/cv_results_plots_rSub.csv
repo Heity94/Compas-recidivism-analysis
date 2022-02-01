@@ -1,0 +1,481 @@
+model,metrics,values
+Vanilla Logistic Regression_rSub,test_accuracy,0.6935483870967742
+Vanilla Logistic Regression_rSub,test_accuracy,0.6666666666666666
+Vanilla Logistic Regression_rSub,test_accuracy,0.6549865229110512
+Vanilla Logistic Regression_rSub,test_accuracy,0.6900269541778976
+Vanilla Logistic Regression_rSub,test_accuracy,0.7035040431266847
+Vanilla Logistic Regression_rSub,test_accuracy,0.6469002695417789
+Vanilla Logistic Regression_rSub,test_accuracy,0.6253369272237197
+Vanilla Logistic Regression_rSub,test_accuracy,0.6711590296495957
+Vanilla Logistic Regression_rSub,test_accuracy,0.6630727762803235
+Vanilla Logistic Regression_rSub,test_accuracy,0.6711590296495957
+Vanilla single Tree_rSub,test_accuracy,0.6827956989247311
+Vanilla single Tree_rSub,test_accuracy,0.6586021505376344
+Vanilla single Tree_rSub,test_accuracy,0.6684636118598383
+Vanilla single Tree_rSub,test_accuracy,0.6846361185983828
+Vanilla single Tree_rSub,test_accuracy,0.692722371967655
+Vanilla single Tree_rSub,test_accuracy,0.6819407008086253
+Vanilla single Tree_rSub,test_accuracy,0.633423180592992
+Vanilla single Tree_rSub,test_accuracy,0.6954177897574124
+Vanilla single Tree_rSub,test_accuracy,0.6711590296495957
+Vanilla single Tree_rSub,test_accuracy,0.6469002695417789
+Vanilla random forest_rSub,test_accuracy,0.6397849462365591
+Vanilla random forest_rSub,test_accuracy,0.6505376344086021
+Vanilla random forest_rSub,test_accuracy,0.6576819407008087
+Vanilla random forest_rSub,test_accuracy,0.6091644204851752
+Vanilla random forest_rSub,test_accuracy,0.6576819407008087
+Vanilla random forest_rSub,test_accuracy,0.6118598382749326
+Vanilla random forest_rSub,test_accuracy,0.6522911051212938
+Vanilla random forest_rSub,test_accuracy,0.6549865229110512
+Vanilla random forest_rSub,test_accuracy,0.6522911051212938
+Vanilla random forest_rSub,test_accuracy,0.6576819407008087
+Tuned Logistic Regression_rSub,test_accuracy,0.6478494623655914
+Tuned Logistic Regression_rSub,test_accuracy,0.6801075268817204
+Tuned Logistic Regression_rSub,test_accuracy,0.6819407008086253
+Tuned Logistic Regression_rSub,test_accuracy,0.6846361185983828
+Tuned Logistic Regression_rSub,test_accuracy,0.6873315363881402
+Tuned Logistic Regression_rSub,test_accuracy,0.628032345013477
+Tuned Logistic Regression_rSub,test_accuracy,0.6792452830188679
+Tuned Logistic Regression_rSub,test_accuracy,0.6522911051212938
+Tuned Logistic Regression_rSub,test_accuracy,0.7169811320754716
+Tuned Logistic Regression_rSub,test_accuracy,0.6873315363881402
+Tuned single Tree_rSub,test_accuracy,0.6881720430107527
+Tuned single Tree_rSub,test_accuracy,0.6612903225806451
+Tuned single Tree_rSub,test_accuracy,0.6576819407008087
+Tuned single Tree_rSub,test_accuracy,0.7277628032345014
+Tuned single Tree_rSub,test_accuracy,0.6765498652291105
+Tuned single Tree_rSub,test_accuracy,0.6792452830188679
+Tuned single Tree_rSub,test_accuracy,0.7088948787061995
+Tuned single Tree_rSub,test_accuracy,0.6846361185983828
+Tuned single Tree_rSub,test_accuracy,0.7223719676549866
+Tuned single Tree_rSub,test_accuracy,0.7035040431266847
+Bagged tuned single Tree_rSub,test_accuracy,0.6908602150537635
+Bagged tuned single Tree_rSub,test_accuracy,0.6559139784946236
+Bagged tuned single Tree_rSub,test_accuracy,0.6819407008086253
+Bagged tuned single Tree_rSub,test_accuracy,0.7088948787061995
+Bagged tuned single Tree_rSub,test_accuracy,0.6711590296495957
+Bagged tuned single Tree_rSub,test_accuracy,0.6684636118598383
+Bagged tuned single Tree_rSub,test_accuracy,0.692722371967655
+Bagged tuned single Tree_rSub,test_accuracy,0.6846361185983828
+Bagged tuned single Tree_rSub,test_accuracy,0.7358490566037735
+Bagged tuned single Tree_rSub,test_accuracy,0.6981132075471698
+Tuned random forest_rSub,test_accuracy,0.6908602150537635
+Tuned random forest_rSub,test_accuracy,0.6586021505376344
+Tuned random forest_rSub,test_accuracy,0.6711590296495957
+Tuned random forest_rSub,test_accuracy,0.6819407008086253
+Tuned random forest_rSub,test_accuracy,0.6711590296495957
+Tuned random forest_rSub,test_accuracy,0.6738544474393531
+Tuned random forest_rSub,test_accuracy,0.706199460916442
+Tuned random forest_rSub,test_accuracy,0.6819407008086253
+Tuned random forest_rSub,test_accuracy,0.7088948787061995
+Tuned random forest_rSub,test_accuracy,0.7008086253369272
+Tuned XGB_rSub,test_accuracy,0.6666666666666666
+Tuned XGB_rSub,test_accuracy,0.6451612903225806
+Tuned XGB_rSub,test_accuracy,0.692722371967655
+Tuned XGB_rSub,test_accuracy,0.7008086253369272
+Tuned XGB_rSub,test_accuracy,0.6846361185983828
+Tuned XGB_rSub,test_accuracy,0.6819407008086253
+Tuned XGB_rSub,test_accuracy,0.7008086253369272
+Tuned XGB_rSub,test_accuracy,0.692722371967655
+Tuned XGB_rSub,test_accuracy,0.7331536388140162
+Tuned XGB_rSub,test_accuracy,0.692722371967655
+Vanilla Logistic Regression_rSub,test_precision,0.5542857142857143
+Vanilla Logistic Regression_rSub,test_precision,0.5328947368421053
+Vanilla Logistic Regression_rSub,test_precision,0.5153374233128835
+Vanilla Logistic Regression_rSub,test_precision,0.5576923076923077
+Vanilla Logistic Regression_rSub,test_precision,0.5741935483870968
+Vanilla Logistic Regression_rSub,test_precision,0.5058139534883721
+Vanilla Logistic Regression_rSub,test_precision,0.4810126582278481
+Vanilla Logistic Regression_rSub,test_precision,0.5307262569832403
+Vanilla Logistic Regression_rSub,test_precision,0.521505376344086
+Vanilla Logistic Regression_rSub,test_precision,0.5345911949685535
+Vanilla single Tree_rSub,test_precision,0.5454545454545454
+Vanilla single Tree_rSub,test_precision,0.5212121212121212
+Vanilla single Tree_rSub,test_precision,0.5284090909090909
+Vanilla single Tree_rSub,test_precision,0.5588235294117647
+Vanilla single Tree_rSub,test_precision,0.5508021390374331
+Vanilla single Tree_rSub,test_precision,0.5477707006369427
+Vanilla single Tree_rSub,test_precision,0.4897959183673469
+Vanilla single Tree_rSub,test_precision,0.5757575757575758
+Vanilla single Tree_rSub,test_precision,0.5333333333333333
+Vanilla single Tree_rSub,test_precision,0.50625
+Vanilla random forest_rSub,test_precision,0.4967741935483871
+Vanilla random forest_rSub,test_precision,0.5161290322580645
+Vanilla random forest_rSub,test_precision,0.5238095238095238
+Vanilla random forest_rSub,test_precision,0.4523809523809524
+Vanilla random forest_rSub,test_precision,0.5217391304347826
+Vanilla random forest_rSub,test_precision,0.4645161290322581
+Vanilla random forest_rSub,test_precision,0.5147058823529411
+Vanilla random forest_rSub,test_precision,0.518796992481203
+Vanilla random forest_rSub,test_precision,0.5140845070422535
+Vanilla random forest_rSub,test_precision,0.5220588235294118
+Tuned Logistic Regression_rSub,test_precision,0.5144508670520231
+Tuned Logistic Regression_rSub,test_precision,0.554140127388535
+Tuned Logistic Regression_rSub,test_precision,0.5542168674698795
+Tuned Logistic Regression_rSub,test_precision,0.558282208588957
+Tuned Logistic Regression_rSub,test_precision,0.5602409638554217
+Tuned Logistic Regression_rSub,test_precision,0.4945652173913043
+Tuned Logistic Regression_rSub,test_precision,0.55
+Tuned Logistic Regression_rSub,test_precision,0.5197368421052632
+Tuned Logistic Regression_rSub,test_precision,0.5882352941176471
+Tuned Logistic Regression_rSub,test_precision,0.5549132947976878
+Tuned single Tree_rSub,test_precision,0.554945054945055
+Tuned single Tree_rSub,test_precision,0.5277777777777778
+Tuned single Tree_rSub,test_precision,0.5226130653266332
+Tuned single Tree_rSub,test_precision,0.6206896551724138
+Tuned single Tree_rSub,test_precision,0.5506329113924051
+Tuned single Tree_rSub,test_precision,0.5521472392638037
+Tuned single Tree_rSub,test_precision,0.5906040268456376
+Tuned single Tree_rSub,test_precision,0.5584415584415584
+Tuned single Tree_rSub,test_precision,0.6176470588235294
+Tuned single Tree_rSub,test_precision,0.577639751552795
+Bagged tuned single Tree_rSub,test_precision,0.5621301775147929
+Bagged tuned single Tree_rSub,test_precision,0.524390243902439
+Bagged tuned single Tree_rSub,test_precision,0.5555555555555556
+Bagged tuned single Tree_rSub,test_precision,0.5958904109589042
+Bagged tuned single Tree_rSub,test_precision,0.5460526315789473
+Bagged tuned single Tree_rSub,test_precision,0.5398773006134969
+Bagged tuned single Tree_rSub,test_precision,0.5686274509803921
+Bagged tuned single Tree_rSub,test_precision,0.5661764705882353
+Bagged tuned single Tree_rSub,test_precision,0.6178343949044586
+Bagged tuned single Tree_rSub,test_precision,0.5705521472392638
+Tuned random forest_rSub,test_precision,0.559322033898305
+Tuned random forest_rSub,test_precision,0.5251396648044693
+Tuned random forest_rSub,test_precision,0.5393258426966292
+Tuned random forest_rSub,test_precision,0.5511363636363636
+Tuned random forest_rSub,test_precision,0.5432098765432098
+Tuned random forest_rSub,test_precision,0.543859649122807
+Tuned random forest_rSub,test_precision,0.5844155844155844
+Tuned random forest_rSub,test_precision,0.554140127388535
+Tuned random forest_rSub,test_precision,0.5754189944134078
+Tuned random forest_rSub,test_precision,0.572289156626506
+Tuned XGB_rSub,test_precision,0.532608695652174
+Tuned XGB_rSub,test_precision,0.5114942528735632
+Tuned XGB_rSub,test_precision,0.5654761904761905
+Tuned XGB_rSub,test_precision,0.5816993464052288
+Tuned XGB_rSub,test_precision,0.5590062111801242
+Tuned XGB_rSub,test_precision,0.5511363636363636
+Tuned XGB_rSub,test_precision,0.5769230769230769
+Tuned XGB_rSub,test_precision,0.5660377358490566
+Tuned XGB_rSub,test_precision,0.6071428571428571
+Tuned XGB_rSub,test_precision,0.5636363636363636
+Vanilla Logistic Regression_rSub,test_recall,0.7293233082706767
+Vanilla Logistic Regression_rSub,test_recall,0.6044776119402985
+Vanilla Logistic Regression_rSub,test_recall,0.631578947368421
+Vanilla Logistic Regression_rSub,test_recall,0.6541353383458647
+Vanilla Logistic Regression_rSub,test_recall,0.6691729323308271
+Vanilla Logistic Regression_rSub,test_recall,0.6541353383458647
+Vanilla Logistic Regression_rSub,test_recall,0.5714285714285714
+Vanilla Logistic Regression_rSub,test_recall,0.7142857142857143
+Vanilla Logistic Regression_rSub,test_recall,0.7293233082706767
+Vanilla Logistic Regression_rSub,test_recall,0.6390977443609023
+Vanilla single Tree_rSub,test_recall,0.6766917293233082
+Vanilla single Tree_rSub,test_recall,0.6417910447761194
+Vanilla single Tree_rSub,test_recall,0.6992481203007519
+Vanilla single Tree_rSub,test_recall,0.5714285714285714
+Vanilla single Tree_rSub,test_recall,0.7744360902255639
+Vanilla single Tree_rSub,test_recall,0.6466165413533834
+Vanilla single Tree_rSub,test_recall,0.5413533834586466
+Vanilla single Tree_rSub,test_recall,0.5714285714285714
+Vanilla single Tree_rSub,test_recall,0.6616541353383458
+Vanilla single Tree_rSub,test_recall,0.6090225563909775
+Vanilla random forest_rSub,test_recall,0.5789473684210527
+Vanilla random forest_rSub,test_recall,0.47761194029850745
+Vanilla random forest_rSub,test_recall,0.49624060150375937
+Vanilla random forest_rSub,test_recall,0.42857142857142855
+Vanilla random forest_rSub,test_recall,0.5413533834586466
+Vanilla random forest_rSub,test_recall,0.5413533834586466
+Vanilla random forest_rSub,test_recall,0.5263157894736842
+Vanilla random forest_rSub,test_recall,0.518796992481203
+Vanilla random forest_rSub,test_recall,0.5488721804511278
+Vanilla random forest_rSub,test_recall,0.5338345864661654
+Tuned Logistic Regression_rSub,test_recall,0.6544117647058824
+Tuned Logistic Regression_rSub,test_recall,0.6397058823529411
+Tuned Logistic Regression_rSub,test_recall,0.6764705882352942
+Tuned Logistic Regression_rSub,test_recall,0.6691176470588235
+Tuned Logistic Regression_rSub,test_recall,0.6838235294117647
+Tuned Logistic Regression_rSub,test_recall,0.6691176470588235
+Tuned Logistic Regression_rSub,test_recall,0.6518518518518519
+Tuned Logistic Regression_rSub,test_recall,0.5851851851851851
+Tuned Logistic Regression_rSub,test_recall,0.7407407407407407
+Tuned Logistic Regression_rSub,test_recall,0.7111111111111111
+Tuned single Tree_rSub,test_recall,0.7426470588235294
+Tuned single Tree_rSub,test_recall,0.6985294117647058
+Tuned single Tree_rSub,test_recall,0.7647058823529411
+Tuned single Tree_rSub,test_recall,0.6617647058823529
+Tuned single Tree_rSub,test_recall,0.6397058823529411
+Tuned single Tree_rSub,test_recall,0.6617647058823529
+Tuned single Tree_rSub,test_recall,0.6518518518518519
+Tuned single Tree_rSub,test_recall,0.6370370370370371
+Tuned single Tree_rSub,test_recall,0.6222222222222222
+Tuned single Tree_rSub,test_recall,0.6888888888888889
+Bagged tuned single Tree_rSub,test_recall,0.6985294117647058
+Bagged tuned single Tree_rSub,test_recall,0.6323529411764706
+Bagged tuned single Tree_rSub,test_recall,0.6617647058823529
+Bagged tuned single Tree_rSub,test_recall,0.6397058823529411
+Bagged tuned single Tree_rSub,test_recall,0.6102941176470589
+Bagged tuned single Tree_rSub,test_recall,0.6470588235294118
+Bagged tuned single Tree_rSub,test_recall,0.6444444444444445
+Bagged tuned single Tree_rSub,test_recall,0.5703703703703704
+Bagged tuned single Tree_rSub,test_recall,0.7185185185185186
+Bagged tuned single Tree_rSub,test_recall,0.6888888888888889
+Tuned random forest_rSub,test_recall,0.7279411764705882
+Tuned random forest_rSub,test_recall,0.6911764705882353
+Tuned random forest_rSub,test_recall,0.7058823529411765
+Tuned random forest_rSub,test_recall,0.7132352941176471
+Tuned random forest_rSub,test_recall,0.6470588235294118
+Tuned random forest_rSub,test_recall,0.6838235294117647
+Tuned random forest_rSub,test_recall,0.6666666666666666
+Tuned random forest_rSub,test_recall,0.6444444444444445
+Tuned random forest_rSub,test_recall,0.762962962962963
+Tuned random forest_rSub,test_recall,0.7037037037037037
+Tuned XGB_rSub,test_recall,0.7205882352941176
+Tuned XGB_rSub,test_recall,0.6544117647058824
+Tuned XGB_rSub,test_recall,0.6985294117647058
+Tuned XGB_rSub,test_recall,0.6544117647058824
+Tuned XGB_rSub,test_recall,0.6617647058823529
+Tuned XGB_rSub,test_recall,0.7132352941176471
+Tuned XGB_rSub,test_recall,0.6666666666666666
+Tuned XGB_rSub,test_recall,0.6666666666666666
+Tuned XGB_rSub,test_recall,0.7555555555555555
+Tuned XGB_rSub,test_recall,0.6888888888888889
+Vanilla Logistic Regression_rSub,test_f1,0.6298701298701298
+Vanilla Logistic Regression_rSub,test_f1,0.5664335664335665
+Vanilla Logistic Regression_rSub,test_f1,0.5675675675675677
+Vanilla Logistic Regression_rSub,test_f1,0.6020761245674741
+Vanilla Logistic Regression_rSub,test_f1,0.6180555555555556
+Vanilla Logistic Regression_rSub,test_f1,0.5704918032786885
+Vanilla Logistic Regression_rSub,test_f1,0.5223367697594502
+Vanilla Logistic Regression_rSub,test_f1,0.608974358974359
+Vanilla Logistic Regression_rSub,test_f1,0.6081504702194358
+Vanilla Logistic Regression_rSub,test_f1,0.5821917808219178
+Vanilla single Tree_rSub,test_f1,0.6040268456375838
+Vanilla single Tree_rSub,test_f1,0.5752508361204013
+Vanilla single Tree_rSub,test_f1,0.6019417475728156
+Vanilla single Tree_rSub,test_f1,0.5650557620817843
+Vanilla single Tree_rSub,test_f1,0.6437499999999999
+Vanilla single Tree_rSub,test_f1,0.593103448275862
+Vanilla single Tree_rSub,test_f1,0.5142857142857141
+Vanilla single Tree_rSub,test_f1,0.5735849056603773
+Vanilla single Tree_rSub,test_f1,0.5906040268456376
+Vanilla single Tree_rSub,test_f1,0.5529010238907851
+Vanilla random forest_rSub,test_f1,0.5347222222222222
+Vanilla random forest_rSub,test_f1,0.49612403100775193
+Vanilla random forest_rSub,test_f1,0.5096525096525096
+Vanilla random forest_rSub,test_f1,0.44015444015444016
+Vanilla random forest_rSub,test_f1,0.5313653136531364
+Vanilla random forest_rSub,test_f1,0.5
+Vanilla random forest_rSub,test_f1,0.5204460966542751
+Vanilla random forest_rSub,test_f1,0.518796992481203
+Vanilla random forest_rSub,test_f1,0.530909090909091
+Vanilla random forest_rSub,test_f1,0.5278810408921933
+Tuned Logistic Regression_rSub,test_f1,0.5760517799352752
+Tuned Logistic Regression_rSub,test_f1,0.5938566552901022
+Tuned Logistic Regression_rSub,test_f1,0.6092715231788081
+Tuned Logistic Regression_rSub,test_f1,0.608695652173913
+Tuned Logistic Regression_rSub,test_f1,0.6158940397350993
+Tuned Logistic Regression_rSub,test_f1,0.56875
+Tuned Logistic Regression_rSub,test_f1,0.5966101694915255
+Tuned Logistic Regression_rSub,test_f1,0.5505226480836237
+Tuned Logistic Regression_rSub,test_f1,0.6557377049180328
+Tuned Logistic Regression_rSub,test_f1,0.6233766233766234
+Tuned single Tree_rSub,test_f1,0.6352201257861636
+Tuned single Tree_rSub,test_f1,0.60126582278481
+Tuned single Tree_rSub,test_f1,0.6208955223880598
+Tuned single Tree_rSub,test_f1,0.6405693950177936
+Tuned single Tree_rSub,test_f1,0.5918367346938775
+Tuned single Tree_rSub,test_f1,0.6020066889632107
+Tuned single Tree_rSub,test_f1,0.619718309859155
+Tuned single Tree_rSub,test_f1,0.5951557093425607
+Tuned single Tree_rSub,test_f1,0.6199261992619927
+Tuned single Tree_rSub,test_f1,0.6283783783783784
+Bagged tuned single Tree_rSub,test_f1,0.6229508196721311
+Bagged tuned single Tree_rSub,test_f1,0.5733333333333334
+Bagged tuned single Tree_rSub,test_f1,0.6040268456375839
+Bagged tuned single Tree_rSub,test_f1,0.6170212765957447
+Bagged tuned single Tree_rSub,test_f1,0.576388888888889
+Bagged tuned single Tree_rSub,test_f1,0.5886287625418061
+Bagged tuned single Tree_rSub,test_f1,0.6041666666666666
+Bagged tuned single Tree_rSub,test_f1,0.5682656826568265
+Bagged tuned single Tree_rSub,test_f1,0.6643835616438357
+Bagged tuned single Tree_rSub,test_f1,0.6241610738255035
+Tuned random forest_rSub,test_f1,0.6325878594249201
+Tuned random forest_rSub,test_f1,0.5968253968253968
+Tuned random forest_rSub,test_f1,0.6114649681528662
+Tuned random forest_rSub,test_f1,0.6217948717948718
+Tuned random forest_rSub,test_f1,0.5906040268456375
+Tuned random forest_rSub,test_f1,0.6058631921824104
+Tuned random forest_rSub,test_f1,0.6228373702422145
+Tuned random forest_rSub,test_f1,0.5958904109589042
+Tuned random forest_rSub,test_f1,0.6560509554140128
+Tuned random forest_rSub,test_f1,0.6312292358803987
+Tuned XGB_rSub,test_f1,0.6125
+Tuned XGB_rSub,test_f1,0.5741935483870968
+Tuned XGB_rSub,test_f1,0.625
+Tuned XGB_rSub,test_f1,0.615916955017301
+Tuned XGB_rSub,test_f1,0.6060606060606061
+Tuned XGB_rSub,test_f1,0.6217948717948718
+Tuned XGB_rSub,test_f1,0.6185567010309277
+Tuned XGB_rSub,test_f1,0.6122448979591837
+Tuned XGB_rSub,test_f1,0.6732673267326731
+Tuned XGB_rSub,test_f1,0.6199999999999999
+Vanilla Logistic Regression_rSub,test_roc_auc,0.76904080284393
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7201335758183871
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7236526189423138
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7411385606874328
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7666961521450685
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7088519618373665
+Vanilla Logistic Regression_rSub,test_roc_auc,0.6733272256270928
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7418967587034815
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7519270866241233
+Vanilla Logistic Regression_rSub,test_roc_auc,0.7284861312946231
+Vanilla single Tree_rSub,test_roc_auc,0.7303300091232265
+Vanilla single Tree_rSub,test_roc_auc,0.704392951210335
+Vanilla single Tree_rSub,test_roc_auc,0.7309502748467808
+Vanilla single Tree_rSub,test_roc_auc,0.6891862007961079
+Vanilla single Tree_rSub,test_roc_auc,0.7501737537120112
+Vanilla single Tree_rSub,test_roc_auc,0.7292917166866746
+Vanilla single Tree_rSub,test_roc_auc,0.651702786377709
+Vanilla single Tree_rSub,test_roc_auc,0.7438554369116067
+Vanilla single Tree_rSub,test_roc_auc,0.7216307575661843
+Vanilla single Tree_rSub,test_roc_auc,0.6810671637075882
+Vanilla random forest_rSub,test_roc_auc,0.667757259256929
+Vanilla random forest_rSub,test_roc_auc,0.6901574062460806
+Vanilla random forest_rSub,test_roc_auc,0.6896758703481393
+Vanilla random forest_rSub,test_roc_auc,0.6304416503443482
+Vanilla random forest_rSub,test_roc_auc,0.6690149744108169
+Vanilla random forest_rSub,test_roc_auc,0.6362229102167184
+Vanilla random forest_rSub,test_roc_auc,0.6715738927149808
+Vanilla random forest_rSub,test_roc_auc,0.6931193530043596
+Vanilla random forest_rSub,test_roc_auc,0.6874170720919948
+Vanilla random forest_rSub,test_roc_auc,0.6809723889555823
+Tuned Logistic Regression_rSub,test_roc_auc,0.7137649551345961
+Tuned Logistic Regression_rSub,test_roc_auc,0.7126277417746759
+Tuned Logistic Regression_rSub,test_roc_auc,0.7349342928660826
+Tuned Logistic Regression_rSub,test_roc_auc,0.7431633291614518
+Tuned Logistic Regression_rSub,test_roc_auc,0.7329161451814769
+Tuned Logistic Regression_rSub,test_roc_auc,0.7207290362953692
+Tuned Logistic Regression_rSub,test_roc_auc,0.7251412429378531
+Tuned Logistic Regression_rSub,test_roc_auc,0.6885436283741369
+Tuned Logistic Regression_rSub,test_roc_auc,0.7892655367231637
+Tuned Logistic Regression_rSub,test_roc_auc,0.7497175141242938
+Tuned single Tree_rSub,test_roc_auc,0.7425847457627119
+Tuned single Tree_rSub,test_roc_auc,0.687780408773679
+Tuned single Tree_rSub,test_roc_auc,0.7348247809762203
+Tuned single Tree_rSub,test_roc_auc,0.7349499374217772
+Tuned single Tree_rSub,test_roc_auc,0.6897058823529412
+Tuned single Tree_rSub,test_roc_auc,0.7155663329161452
+Tuned single Tree_rSub,test_roc_auc,0.7218612680477088
+Tuned single Tree_rSub,test_roc_auc,0.7072033898305085
+Tuned single Tree_rSub,test_roc_auc,0.7634965473948524
+Tuned single Tree_rSub,test_roc_auc,0.7260357815442561
+Bagged tuned single Tree_rSub,test_roc_auc,0.7412761714855434
+Bagged tuned single Tree_rSub,test_roc_auc,0.7051190179461615
+Bagged tuned single Tree_rSub,test_roc_auc,0.7521589486858574
+Bagged tuned single Tree_rSub,test_roc_auc,0.7437108886107634
+Bagged tuned single Tree_rSub,test_roc_auc,0.7177252816020024
+Bagged tuned single Tree_rSub,test_roc_auc,0.7401595744680851
+Bagged tuned single Tree_rSub,test_roc_auc,0.7409761456371625
+Bagged tuned single Tree_rSub,test_roc_auc,0.7222693032015066
+Bagged tuned single Tree_rSub,test_roc_auc,0.7929849340866291
+Bagged tuned single Tree_rSub,test_roc_auc,0.7530445699937225
+Tuned random forest_rSub,test_roc_auc,0.7419771934197408
+Tuned random forest_rSub,test_roc_auc,0.7047607178464605
+Tuned random forest_rSub,test_roc_auc,0.7641113892365456
+Tuned random forest_rSub,test_roc_auc,0.738642052565707
+Tuned random forest_rSub,test_roc_auc,0.7079630788485607
+Tuned random forest_rSub,test_roc_auc,0.7286921151439298
+Tuned random forest_rSub,test_roc_auc,0.7524325172630258
+Tuned random forest_rSub,test_roc_auc,0.7200721908349026
+Tuned random forest_rSub,test_roc_auc,0.781497175141243
+Tuned random forest_rSub,test_roc_auc,0.752306967984934
+Tuned XGB_rSub,test_roc_auc,0.7352162263210369
+Tuned XGB_rSub,test_roc_auc,0.7143569292123628
+Tuned XGB_rSub,test_roc_auc,0.7533635794743428
+Tuned XGB_rSub,test_roc_auc,0.742866082603254
+Tuned XGB_rSub,test_roc_auc,0.723685857321652
+Tuned XGB_rSub,test_roc_auc,0.7398936170212767
+Tuned XGB_rSub,test_roc_auc,0.7412429378531074
+Tuned XGB_rSub,test_roc_auc,0.7161644695543001
+Tuned XGB_rSub,test_roc_auc,0.7932360326428123
+Tuned XGB_rSub,test_roc_auc,0.7536723163841808
+Vanilla Logistic Regression_rSub,test_log_loss,0.5799876281048072
+Vanilla Logistic Regression_rSub,test_log_loss,0.6040815342827406
+Vanilla Logistic Regression_rSub,test_log_loss,0.6016533915814982
+Vanilla Logistic Regression_rSub,test_log_loss,0.6088498025230175
+Vanilla Logistic Regression_rSub,test_log_loss,0.5863309120019303
+Vanilla Logistic Regression_rSub,test_log_loss,0.6358081258893464
+Vanilla Logistic Regression_rSub,test_log_loss,0.663708691614713
+Vanilla Logistic Regression_rSub,test_log_loss,0.5999545825574514
+Vanilla Logistic Regression_rSub,test_log_loss,0.5986415373574443
+Vanilla Logistic Regression_rSub,test_log_loss,0.5927397985538803
+Vanilla single Tree_rSub,test_log_loss,0.6092206702637949
+Vanilla single Tree_rSub,test_log_loss,0.6223740181337266
+Vanilla single Tree_rSub,test_log_loss,0.5937555409018347
+Vanilla single Tree_rSub,test_log_loss,0.6371370243985504
+Vanilla single Tree_rSub,test_log_loss,0.588165464761276
+Vanilla single Tree_rSub,test_log_loss,0.6071449907887124
+Vanilla single Tree_rSub,test_log_loss,0.6760719708053419
+Vanilla single Tree_rSub,test_log_loss,0.5957830677293169
+Vanilla single Tree_rSub,test_log_loss,0.618971421122433
+Vanilla single Tree_rSub,test_log_loss,0.648633967356219
+Vanilla random forest_rSub,test_log_loss,1.1647046971466635
+Vanilla random forest_rSub,test_log_loss,0.8755873782396635
+Vanilla random forest_rSub,test_log_loss,0.9487436410955167
+Vanilla random forest_rSub,test_log_loss,1.2002775251328843
+Vanilla random forest_rSub,test_log_loss,1.2613959842023974
+Vanilla random forest_rSub,test_log_loss,1.329990404097176
+Vanilla random forest_rSub,test_log_loss,1.4370653729996967
+Vanilla random forest_rSub,test_log_loss,0.7980375098573639
+Vanilla random forest_rSub,test_log_loss,1.3002140672366254
+Vanilla random forest_rSub,test_log_loss,1.2499421615495863
+Tuned Logistic Regression_rSub,test_log_loss,0.6270534571617635
+Tuned Logistic Regression_rSub,test_log_loss,0.6239511876190741
+Tuned Logistic Regression_rSub,test_log_loss,0.620620175137295
+Tuned Logistic Regression_rSub,test_log_loss,0.5991674446776977
+Tuned Logistic Regression_rSub,test_log_loss,0.6181116020222422
+Tuned Logistic Regression_rSub,test_log_loss,0.6226329151211595
+Tuned Logistic Regression_rSub,test_log_loss,0.6237077967003078
+Tuned Logistic Regression_rSub,test_log_loss,0.6324588554383442
+Tuned Logistic Regression_rSub,test_log_loss,0.5720170194063817
+Tuned Logistic Regression_rSub,test_log_loss,0.6031523714628898
+Tuned single Tree_rSub,test_log_loss,0.601724385169875
+Tuned single Tree_rSub,test_log_loss,0.647664815001336
+Tuned single Tree_rSub,test_log_loss,0.6133611214202321
+Tuned single Tree_rSub,test_log_loss,0.5969703292194208
+Tuned single Tree_rSub,test_log_loss,0.6375482377744208
+Tuned single Tree_rSub,test_log_loss,0.6189156689967206
+Tuned single Tree_rSub,test_log_loss,0.6070073900939557
+Tuned single Tree_rSub,test_log_loss,0.6152093747928272
+Tuned single Tree_rSub,test_log_loss,0.5816875132446356
+Tuned single Tree_rSub,test_log_loss,0.6091739874650518
+Bagged tuned single Tree_rSub,test_log_loss,0.6099841045027701
+Bagged tuned single Tree_rSub,test_log_loss,0.6288313560058316
+Bagged tuned single Tree_rSub,test_log_loss,0.6026205236836852
+Bagged tuned single Tree_rSub,test_log_loss,0.6014108247720734
+Bagged tuned single Tree_rSub,test_log_loss,0.6142351382313949
+Bagged tuned single Tree_rSub,test_log_loss,0.6053746161500912
+Bagged tuned single Tree_rSub,test_log_loss,0.6005697227035708
+Bagged tuned single Tree_rSub,test_log_loss,0.6147640611680588
+Bagged tuned single Tree_rSub,test_log_loss,0.5846230071453107
+Bagged tuned single Tree_rSub,test_log_loss,0.5980696022648271
+Tuned random forest_rSub,test_log_loss,0.6088577797703074
+Tuned random forest_rSub,test_log_loss,0.6321911614958688
+Tuned random forest_rSub,test_log_loss,0.5861198342374404
+Tuned random forest_rSub,test_log_loss,0.5989536748054362
+Tuned random forest_rSub,test_log_loss,0.6248671795327279
+Tuned random forest_rSub,test_log_loss,0.6196505259425695
+Tuned random forest_rSub,test_log_loss,0.5854723972031898
+Tuned random forest_rSub,test_log_loss,0.6142518544870509
+Tuned random forest_rSub,test_log_loss,0.5689580898010751
+Tuned random forest_rSub,test_log_loss,0.5860968751551912
+Tuned XGB_rSub,test_log_loss,0.61740657651136
+Tuned XGB_rSub,test_log_loss,0.6199927394108106
+Tuned XGB_rSub,test_log_loss,0.593284675013023
+Tuned XGB_rSub,test_log_loss,0.5902410791810311
+Tuned XGB_rSub,test_log_loss,0.6052566464699182
+Tuned XGB_rSub,test_log_loss,0.6025634023217821
+Tuned XGB_rSub,test_log_loss,0.592580024002376
+Tuned XGB_rSub,test_log_loss,0.6158992228803609
+Tuned XGB_rSub,test_log_loss,0.562869265032907
+Tuned XGB_rSub,test_log_loss,0.5855411556009655
