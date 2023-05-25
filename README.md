@@ -1,10 +1,12 @@
 # COMPAS recidivism analysis
 
+```bash
                   Low  High
                  +---------+
 Didn't Reoffend  |____|____|
 Reoffended       |    |    |
                  +---------+
+```
 
 This repository contains our analysis of the **COMPAS** recidivism dataset which was published by ProPublica in their story ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/) story. Furthermore, we train and compare  recidivism various machine learning models to predict recidivism and use SHAP to interpret the model's behavior and check for bias.
 
