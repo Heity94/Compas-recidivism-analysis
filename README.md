@@ -8,7 +8,7 @@ Reoffended       |    |    |
                  +---------+
 ```
 
-This repository contains our analysis of the **COMPAS** recidivism dataset which was published by ProPublica in their story ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/) story. Furthermore, we train and compare  recidivism various machine learning models to predict recidivism and use SHAP to interpret the model's behavior and check for bias.
+This repository contains our analysis of the **COMPAS** recidivism dataset which was published by ProPublica in their story ["Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/) story. Furthermore, we train and compare various machine learning models to predict recidivism and use SHAP to interpret the model's behavior and check for bias.
 
 For our project we chose to the following two prediction tasks:
 1) Classification: Prediction of general recidivism within two years after COMPAS assessment
@@ -26,7 +26,7 @@ For our project we chose to the following two prediction tasks:
 
 ## Structure of the repository
 
-The notebook [Classification_report](final_reports/Classification_Report_Final.ipynb) can be considered as the **main** notebook which includes (apart from the Classification modeling journey) also chapters for the analysis of ProPublica's data and the fairness discussion. The second notebook [`Regression_report`](final_reports/Regression_Report_Final.ipynb)) only contains the modeling journey for the regression task.
+The notebook [Classification_report](final_reports/Classification_Report_Final.ipynb) can be considered as the **main** notebook which includes (apart from the Classification modeling journey) also chapters for the analysis of ProPublica's data and the fairness discussion. The second notebook [Regression_report](final_reports/Regression_Report_Final.ipynb)) only contains the modeling journey for the regression task.
 
 The general structure of this repository is detailed below
 ```bash
